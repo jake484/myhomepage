@@ -1,4 +1,4 @@
-@def title = "Franklin Sandbox"
+@def title = "Jinyi Yang"
 @def hasmath = true
 @def hascode = true
 
@@ -13,15 +13,15 @@ I am now studying for my master's degree. My research interests are modeling, op
 
 ## Main projects
 
-* [OptControl.jl](https://ai4energy.github.io/OptControl.jl/dev/): A tool for Optimal control problem
+* [OptControl.jl](https://ai4energy.github.io/OptControl.jl/dev/): A tool for Optimal Control Problem
 * [Ai4EDocs](https://ai4energy.github.io/Ai4EDocs/dev/): Some documents of Ai4Enengy
 * [Ai4ELab](https://ai4energy.github.io/Ai4ELab/dev/): The Virtual Simulation Lab of Ai4Energy
-* [Ai4EComponents.jl](https://ai4energy.github.io/Ai4EComponentLib.jl/dev/): Component library based on the ModelingToolkit acasual modeling system.
-* [EquationsSolver](https://jake484.github.io/EquationsSolver.jl/): A little tool for linear and nonlinear equations.
+* [Ai4EComponents.jl](https://ai4energy.github.io/Ai4EComponentLib.jl/dev/): The Component library based on the ModelingToolkit acasual modeling system.
+* [EquationsSolver.jl](https://jake484.github.io/EquationsSolver.jl/): A little tool for linear and nonlinear equations.
 
 ## Publications
 
-OptControl.jl: An interpreter for optimal control problem, [arXiv:2207.13229](https://arxiv.org/abs/2207.13229)
+OptControl.jl: An Interpreter for Optimal Control Problem, [arXiv:2207.13229](https://arxiv.org/abs/2207.13229)
 
 ## Contact Information
 
