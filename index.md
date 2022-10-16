@@ -4,7 +4,7 @@
 
 # Jingyi Yang(杨景懿)
 
-I am now studying for my master's degree. My research interests are modeling, optimization, simulation and control of systems. I am one of the founders of the open source organization,[Ai4Energy](https://github.com/ai4energy)
+I am now studying for my master's degree. My research interests are modeling, optimization, simulation and control of systems. I am the co-founder of the open source organization, [Ai4Energy](https://github.com/ai4energy). Click to my [github homepage](https://github.com/jake484).
 
 ## Education
 
@@ -18,11 +18,14 @@ I am now studying for my master's degree. My research interests are modeling, op
 * [Ai4ELab](https://ai4energy.github.io/Ai4ELab/dev/): The Virtual Simulation Lab of Ai4Energy
 * [Ai4EComponents.jl](https://ai4energy.github.io/Ai4EComponentLib.jl/dev/): The Component library based on the ModelingToolkit acasual modeling system.
 * [EquationsSolver.jl](https://jake484.github.io/EquationsSolver.jl/): A little tool for linear and nonlinear equations.
+* [Ai4EMetaPSE.jl.jl](https://ai4energy.github.io/Ai4EMetaPSE.jl/dev/): A parser that parses a differential equations json file to julia solution code.
 
 ## Publications
 
 OptControl.jl: An Interpreter for Optimal Control Problem, [arXiv:2207.13229](https://arxiv.org/abs/2207.13229)
+Ai4EComponentLib.jl: A Component-base Model Library in Julia, [arXiv:2208.11352](https://arxiv.org/abs/2208.11352)
 
 ## Contact Information
 
-You can email me at 522432938@qq.com
+You can email me at 522432938@qq.com.
+
