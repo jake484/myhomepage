@@ -18,7 +18,7 @@ I am now studying for my master's degree. My research interests are modeling, op
 * [Ai4ELab](https://ai4energy.github.io/Ai4ELab/dev/): The Virtual Simulation Lab of Ai4Energy
 * [Ai4EComponents.jl](https://ai4energy.github.io/Ai4EComponentLib.jl/dev/): The Component library based on the ModelingToolkit acasual modeling system.
 * [EquationsSolver.jl](https://jake484.github.io/EquationsSolver.jl/): A little tool for linear and nonlinear equations.
-* [Ai4EMetaPSE.jl.jl](https://ai4energy.github.io/Ai4EMetaPSE.jl/dev/): A parser that parses a differential equations json file to julia solution code.
+* [Ai4EMetaPSE.jl](https://ai4energy.github.io/Ai4EMetaPSE.jl/dev/): A parser that parses a differential equations json file to julia solution code.
 
 ## Publications
 
